@@ -13,6 +13,8 @@ Git Documentação Graylog > https://github.com/Graylog2/documentation
 
 ![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/LogsInicio.png)
 
+BORA > https://github.com/gcalcettebr/dockerizando/tree/master/graylog2
+
 #### Monitoramento - cadvisor / Prometheus / Grafana (Construção)
 
 =)
