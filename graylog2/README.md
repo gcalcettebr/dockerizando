@@ -41,3 +41,27 @@ Então configuramos os VOLUMES para um volume /data padrão , claro que voce pod
 Para saber mais sobre persistência de dados e tals 
 
 [![Docker Hub](https://img.shields.io/badge/docker-swcc%2Fdocker--graylog2-blue.svg?style=flat)](https://hub.docker.com/r/graylog2/server/)
+
+Executando o Graylog2
+---------------------
+```shell
+$sudo git clone github.com/gcalcettebr/dockerizando.git
+$cd graylog2
+$sudo docker-compose up
+```
+Saida:
+```shell
+graylog_1            | 2017-01-11 19:10:54,859 INFO : org.graylog2.bootstrap.ServerBootstrap - Services started, startup times in ms: {InputSetupService [RUNNING]=29, OutputSetupService [RUNNING]=147, BufferSynchronizerService [RUNNING]=174, KafkaJournal [RUNNING]=189, JournalReader [RUNNING]=198, PeriodicalsService [RUNNING]=499, IndexerSetupService [RUNNING]=5083, JerseyService [RUNNING]=18039}
+graylog_1            | 2017-01-11 19:10:54,882 INFO : org.graylog2.bootstrap.ServerBootstrap - Graylog server up and running.
+```
+Okay Graylog Rodando.
+
+Acessando Pagina Web:
+---------------------
+http://127.0.0.1:9000/
+![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/01-TelaLogin.png)
+
+User: admin
+Pass: password123456
+
+
