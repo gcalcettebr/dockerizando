@@ -6,7 +6,8 @@ Aqui vou passar algumas coisas que ja utilizo com docker como:
 
 ### Graylog2
 Oque é: *O Graylog é um sistema que tem como objetivo centralizar e catalogar log’s. Com o Graylog se torna mais simples a auditoria e a identificação de diversos eventos em uma rede corporativa.*
-Video Foda do Amigo Jefferson do Canal LinuxTIps > https://www.youtube.com/watch?v=hg6m8ZPwh4k
+
+ADD: Video Foda do Amigo Jefferson do Canal LinuxTips (https://www.youtube.com/watch?v=hg6m8ZPwh4k)
 
 Nesse exemplo utilizamos o graylog2 All In One (https://hub.docker.com/r/graylog2/server/) para rodar o graylog2 já pré configurado.
 
