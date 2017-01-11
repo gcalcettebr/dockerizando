@@ -12,6 +12,7 @@ Nesse exemplo utilizamos o graylog2 All In One (https://hub.docker.com/r/graylog
 Git Documentação Graylog > https://github.com/Graylog2/documentation
 
 ![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/LogsInicio.png)
-#### Monitoramento
+
+#### Monitoramento - cadvisor / Prometheus / Grafana (Construção)
 
 =)
