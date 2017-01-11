@@ -1,10 +1,12 @@
 # Dockerizando
+==================================
 
 Salve 0/.
 
 Aqui vou passar algumas coisas que ja utilizo com docker como:
 
-### Graylog2
+Graylog2
+------------
 Oque é: *O Graylog é um sistema que tem como objetivo centralizar e catalogar log’s. Com o Graylog se torna mais simples a auditoria e a identificação de diversos eventos em uma rede corporativa.*
 
 ADD: Video Foda do Amigo Jefferson do Canal LinuxTips (https://www.youtube.com/watch?v=hg6m8ZPwh4k)
@@ -48,6 +50,7 @@ BLZ Tudo Rodando!
 
 BORA > https://github.com/gcalcettebr/dockerizando/tree/master/graylog2
 
-#### Monitoramento - cadvisor / Prometheus / Grafana (Construção)
+Monitoramento - cadvisor / Prometheus / Grafana (Construção)
+------------------------------------------------------------
 
 =)
