@@ -65,10 +65,12 @@ User: admin
 Pass: password123456
 
 Bora configurar o Input do GELF para receber logs do container:
+
 System > Inputs
 ![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/02-SystemInput.png)
 
 Vamos adicionar um novo input 
+
 Selecione GELF UDP , Clique em Launch new input.
 ![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/CofigGelf.png)
 
@@ -77,11 +79,14 @@ E vai aparecer assim:
 ![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/ConfigOkay.png)
 
 Com isso o INPUT já está Funcionando.
+
 Na pagina inicial já vai ter log dos containers.
 ![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/Logs.png)
 
 
 Bom Essa foi um basicão de como rodar um container graylog2 e configurar para receber gelf de containers.
-O graylog2 tem muito materia da propria documentação da pagina oficial e da para costumizar bastante os inputs e dashboards. aqui eu no mostrei como fazer um dashboard mas é bem intuitivo a parada, vou deixar uma imagem aqui dos dashboards que ja montei para monitoramente. ;)
+
+O graylog2 tem muito material na propria documentação da pagina oficial e da para costumizar bastante os inputs e dashboards. aqui eu não mostrei como fazer um dashboard mas é bem intuitivo a parada, vou deixar uma imagem aqui dos dashboards que ja montei para monitoramente. ;)
+
 ![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/dashboard.png)
 
