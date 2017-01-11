@@ -19,6 +19,19 @@ Git Documentação Graylog > https://github.com/Graylog2/documentation
 
 ![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/LogsInicio.png)
 
+BORA > https://github.com/gcalcettebr/dockerizando/tree/master/graylog2
+
+Monitoramento - cadvisor / Prometheus / Grafana (Construção)
+------------------------------------------------------------
+
+Rodando Tomcat
+--------------
+
+Rodando Nginx+php
+-----------------
+
+=)
+
 Requerimentos :
 --------------
 Ter o docker / docker-compose instalados.
@@ -46,11 +59,3 @@ Docker version 1.12.5, build 7392c3b, experimental
 docker-compose version 1.6.2, build 4d72027
 ```
 BLZ Tudo Rodando!
-
-
-BORA > https://github.com/gcalcettebr/dockerizando/tree/master/graylog2
-
-Monitoramento - cadvisor / Prometheus / Grafana (Construção)
-------------------------------------------------------------
-
-=)
