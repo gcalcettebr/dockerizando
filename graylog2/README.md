@@ -61,11 +61,11 @@ Para mais info de como trocar a PASS SECRET e Etcs: (http://docs.graylog.org/en/
     - "12201/udp:12201/udp"
 ```
 
-Falando agora de Persistencia de Dados
+Falando agora de Persistência de Dados
 --------------------------------------
 Bom, como estamos rodando em container todo dado armazenado dentro do container sera perdido quando matarmos o container. 
 Então configuramos os VOLUMES para um volume /data padrão , claro que voce pode fazer algo "melhor" mas aqui é apenas um exemplo. congifurando assim todos os arquivos de logs e configurações realizadas no graylog2 não seram perdidas.
 
-Para saber mais sobre persistencia de dados e tals 
+Para saber mais sobre persistência de dados e tals 
 
 [![Docker Hub](https://img.shields.io/badge/docker-swcc%2Fdocker--graylog2-blue.svg?style=flat)](https://hub.docker.com/r/graylog2/server/)
