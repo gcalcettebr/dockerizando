@@ -3,7 +3,7 @@
 
 Salve 0/.
 
-Aqui vou passar algumas coisas que ja utilizo com docker como:
+Aqui vou passar algumas coisas que ja utilizo com Docker como:
 
 Graylog2
 ------------
