@@ -11,7 +11,7 @@ ADD: Video Foda do Amigo Jefferson do Canal LinuxTips (https://www.youtube.com/w
 
 Nesse exemplo utilizamos o graylog2 All In One (https://hub.docker.com/r/graylog2/server/) para rodar o graylog2 já pré configurado.
 
-OBS: Configuramos os containers para enviar log via GELF para o Graylog2. 
+OBS: Utilizando Docker tive a necessidade de centralizar os logs dos containers no graylog2, nesse exemplo ja vamos configurar o container para enviar logs via GELF.. ;)
 
 Git Documentação Graylog > https://github.com/Graylog2/documentation
 
