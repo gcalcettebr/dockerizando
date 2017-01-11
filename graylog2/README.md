@@ -81,6 +81,7 @@ Na pagina inicial já vai ter log dos containers.
 ![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/Logs.png)
 
 
-# Bom Essa foi um basicão de como rodar um container graylog2 e configurar para receber gelf de containers
-# O graylog2 tem muito materia da propria documentação da pagina oficial e da para costumizar bastante os inputs e dashboards. aqui eu no mostrei como fazer um dashboard mas é bem intuitivo a parada, vou deixar uma imagem aqui dos dashboards que ja montei para monitoramente. ;)
-![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/dashboar.png)
+Bom Essa foi um basicão de como rodar um container graylog2 e configurar para receber gelf de containers.
+O graylog2 tem muito materia da propria documentação da pagina oficial e da para costumizar bastante os inputs e dashboards. aqui eu no mostrei como fazer um dashboard mas é bem intuitivo a parada, vou deixar uma imagem aqui dos dashboards que ja montei para monitoramente. ;)
+![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/dashboard.png)
+
