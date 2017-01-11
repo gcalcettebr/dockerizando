@@ -17,6 +17,35 @@ Git Documentação Graylog > https://github.com/Graylog2/documentation
 
 ![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/LogsInicio.png)
 
+Requerimentos :
+--------------
+Ter o docker / docker-compose instalados.
+(http://docs.graylog.org/en/2.1/pages/installation/os/debian.html)
+
+Usando Ubuntu / Debian:
+Instalando docker
+-----------------
+```shell
+#curl -fsSL https://experimental.docker.com | sh
+```
+Instalando o Docker-compose
+---------------------------
+```shell
+#wget https://github.com/docker/compose/releases/download/1.6.2/docker-compose-Linux-x86_64
+#mv docker-compose-Linux-x86_64 /usr/local/bin/docker-compose
+#chmod +x /usr/local/bin/docker-compose
+```
+Testando a parada:
+
+```shell
+#docker --version
+Docker version 1.12.5, build 7392c3b, experimental
+#docker-compose --version
+docker-compose version 1.6.2, build 4d72027
+```
+BLZ Tudo Rodando!
+
+
 BORA > https://github.com/gcalcettebr/dockerizando/tree/master/graylog2
 
 #### Monitoramento - cadvisor / Prometheus / Grafana (Construção)
