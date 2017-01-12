@@ -21,8 +21,17 @@ Git Documentação Graylog > https://github.com/Graylog2/documentation
 
 BORA > https://github.com/gcalcettebr/graylog2
 
-Monitoramento - cadvisor / Prometheus / Grafana (Construção)
-------------------------------------------------------------
+Monitorando containers - cAdvisor / Prometheus / Grafana (Construção)
+---------------------------------------------------------------------
+
+Usando o basico do cAdvisor,Prometheus e grafana para monitoramento de containers.
+
+Se liga nesses DashBoards.
+
+![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/dashboardcontainers.png)
+![alt tag](https://github.com/gcalcettebr/dockerizando/blob/master/jpg/hostdashboard.png)
+
+Então bora la >
 
 Rodando Tomcat
 --------------
