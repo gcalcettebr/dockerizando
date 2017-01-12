@@ -68,3 +68,17 @@ Docker version 1.12.5, build 7392c3b, experimental
 docker-compose version 1.6.2, build 4d72027
 ```
 BLZ Tudo Rodando!
+
+# Swarm-GUI
+===========
+
+Interface Web para Swarm!
+-------------------------
+
+Dicas:
+------
+
+Docker Swarm GUI By: [Julien Breux](https://github.com/JulienBreux/docker-swarm-gui)
+
+Docker Swarm GUI By: [ManoMarks](https://github.com/ManoMarks/docker-swarm-visualizer)
+
